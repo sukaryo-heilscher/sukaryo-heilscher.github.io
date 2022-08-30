@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sukaryo Roy Heilscher",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQGrJUnpY5F_yw/profile-displayphoto-shrink_200_200/0/1661578846971?e=1667433600&v=beta&t=WYRGLF2e0Qa-3lqgkc6_eUBycajzfHPgo9sJn4s3id8",
+    "email": "sukaryor@hawaii.edu",
+    "phone": "808-298-8511",
+    "website": "https://sukaryo-heilscher.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "903 Kenui Cir", "postalCode": "96761", "city": "Lahaina", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sukaryo-heilscher", "url": "http://github.com/sukaryo-heilscher" },
+      { "network": "linkedin", "username": "sukaryo-heilscher", "url": "http://linkedin.com/in/sukaryo-heilscher" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Video Games" },
+    { "name": "Software Engineering" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Top Hats" }
   ],
   "skills": [
     {
