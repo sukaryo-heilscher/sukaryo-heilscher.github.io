@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Holiday_Bowl_crop.jpg
 title: "San Diego Holiday Bowl Performance"
 date: 2017-12-28
 published: true
