@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sukaryo Roy Heilscher",
     "label": "Student",
-    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQGrJUnpY5F_yw/profile-displayphoto-shrink_200_200/0/1661578846971?e=1667433600&v=beta&t=WYRGLF2e0Qa-3lqgkc6_eUBycajzfHPgo9sJn4s3id8",
+    "picture": "https://github.com/sukaryo-heilscher.png",
     "email": "sukaryor@hawaii.edu",
     "phone": "808-298-8511",
     "website": "https://sukaryo-heilscher.github.io",
@@ -17,6 +17,7 @@
     { "name": "Video Games" },
     { "name": "Software Engineering" },
     { "name": "Quantum Computing" },
+    { "name": "Video Streaming Platforms" },
     { "name": "Top Hats" }
   ],
   "skills": [
