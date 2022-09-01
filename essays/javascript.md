@@ -19,13 +19,16 @@ I haven't been coding for very long and the languages I have worked with are rat
 
 # Where'd my structure go?
 
+___
+
 ## Types or lack thereof
 
 Types are seemingly gone from Javascript, with all mentions of int’s, double’s, or boolean’s being replaced with a simple var. *(There’s also alternatively let or const that come with some additional subtleties but aren’t too relevant to my point.)* Now on one hand, this is a substantial improvement as there’s no longer a need to keep track of data types, streamlining the coding process. On the other hand…
 
-> Human sacrifice! Dogs and cats living together! Mass hysteria!
-
-Bill Murray (Ghostbusters 1984)
+<blockquote>
+Human sacrifice! Dogs and cats living together! Mass hysteria!
+<footer>Bill Murray (Ghostbusters 1984)</footer>
+</blockquote>
  
 All consistency has gone out the window. I could be working with a variable holding a simple integer, turn around, and find that it now holds a string with the entire script of the Bee Movie. Now I’m sure such an extreme situation would rarely, if ever, occur but the fact that it could is still scary. It was nice knowing that a function would always return a boolean or that it’s parameters would always be a string and an int. With Javascript though, you seemingly need to account for every possibility, but I guess that just comes with practice.
 
