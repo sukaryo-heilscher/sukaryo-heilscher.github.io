@@ -8,6 +8,7 @@ published: true
 labels:
   - Programming
   - Javascript
+  - Athletic Software Engineering
 ---
 
 <img width="150px" class="rounded float-start pe-4" src="../img/javascript.png">
@@ -33,4 +34,4 @@ So my current class is following a pedagogy called “Athletic Software Engineer
 
 Just the other day I was doing one of the practice problems and I solved it in under 4 minutes, a really good time. The issue was my solution was horribly inefficient, being O(n^2) instead of the optimal O(n). (For those unfamiliar with asymptotic runtimes, the graph should show how bad that really is.) It wasn’t as if I wasn’t aware of this inefficiency, but it was the first solution that came to mind and time was of the essence. Part of the fun of programming for me is puzzling through the problem and coming up with an optimal solution, something that this “athletic” style prohibits.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/Big_O.jpeg">
+<img width="500px" class="rounded float-end pe-4" src="../img/Big_O.jpeg">
