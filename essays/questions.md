@@ -27,4 +27,10 @@ Take [this post](https://stackoverflow.com/questions/3297048/403-forbidden-vs-40
 
 ## help
 
-“help” meanwhile is not a smart question. It’s technically not even a question. “help” is what someone asks when they can’t be bothered to figure things out
+“help” meanwhile is not a smart question. It’s technically not even a question. “help” is what someone asks when they can’t be bothered to figure things out; when they just want someone else to fix their problem. André Cardoso’s [post](https://stackoverflow.com/questions/5924741/help-with-substr) leaves much to be desired. They explain their problem in a single sentence, their attempted solution with another, and ends it off with “help”. David Fells puts it best when he asks, “What is your objective here?”, as it is far from clear. Even mario’s answer to the post had to assume André’s intentions as no effort was made in this question. André had a problem, put it in a post, and nothing more.
+
+## So what’s the point?
+
+Use Google.
+
+I’m only partially joking. Asking a smart question is as simple as trying to find your own solution first, which Google is very helpful for. Once you’ve read up on what you can, then you can know what to ask and what’ll get you the answer you’re looking for. Most importantly though, don’t just say “help”. At the very least, toss a please in there.
