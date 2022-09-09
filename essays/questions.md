@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/big_brain.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/big_brain.jpg">
 
 __Have you ever had a dream that that you um you had you'd you would you could you'd do you wi you wants you you could do so you you'd do you could you you want you want him to do you so much you could do anything? -Joe Cirkiel (1999)__
 
