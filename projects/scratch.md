@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/click.jpg
+image: img/scratch/tri.png
 title: "Patterns from Nothing"
 date: 2019-09-04
 published: true
