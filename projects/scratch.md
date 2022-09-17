@@ -8,7 +8,7 @@ published: true
 labels:
 - Programming
 - Scratch
-  summary: "An accidently interesting project made in Scratch."
+summary: "An accidently interesting project made in Scratch."
 ---
 
 AP Computer Science was certainly an interesting class.
