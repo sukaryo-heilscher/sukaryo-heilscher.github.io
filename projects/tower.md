@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/click.jpg
+image: img/click.png
 title: "Tyrannical Tower"
 date: 2021-05
 published: true
