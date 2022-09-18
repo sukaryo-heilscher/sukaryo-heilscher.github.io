@@ -16,4 +16,4 @@ Software engineering has easily got to be the most tantilizing part of Computer 
 
 ## Video Games
 
-While cliché, video game development was and still is my primary motivation for getting into Computer Science. Video games have provided me with so much entertainment over the years, it's only natural
+While cliché, video game development was and still is my primary motivation for getting into Computer Science. Video games have provided me with so much entertainment over the years, it's only natural that I would want to be able to make them myself.
