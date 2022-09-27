@@ -12,12 +12,7 @@ labels:
 
 _Tedium_
 
-That simple word alone adequately describes my experience with the code analyzing tool ESLint. Just when I've wrapped up coding a program and am preparing to submit it, ESLint has to rear their ugly head to point out the three spaces I didn't bother to place.
-
-INSERT CODE HERE
-
-Yeah, thanks mate. We really avoided a catastrophe there. My code would've been utterly incomprehensible otherwise.
-Sarcasm aside, the juice just isn't worth the squeeze.
+That simple word alone adequately describes my experience with the code analyzing tool ESLint. Just when I've wrapped up coding a program and am preparing to submit it, ESLint has to rear their ugly head to point out the three spaces I didn't bother to place. Yeah, thanks mate. We really avoided a catastrophe there. My code would've been utterly incomprehensible otherwise. Sarcasm aside, the juice just isn't worth the squeeze.
 
 ## The Juice
 
