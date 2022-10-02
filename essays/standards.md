@@ -11,7 +11,7 @@ labels:
 - ESLint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/juice.jpg">
+<img width="150px" class="rounded float-start pe-4" src="../img/juice.jpg">
 
 _Tedium_
 
