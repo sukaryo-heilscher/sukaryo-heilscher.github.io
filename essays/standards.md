@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The Restraint of Standards"
+title: "Coding Standards: Juice Not Worth the Squeeze"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-22
 published: true
 labels:
 - Programming
 - Code Standards
+- ESLint
 ---
 
 _Tedium_
@@ -15,6 +16,8 @@ _Tedium_
 That simple word alone adequately describes my experience with the code analyzing tool ESLint. Just when I've wrapped up coding a program and am preparing to submit it, ESLint has to rear their ugly head to point out the three spaces I didn't bother to place. Yeah, thanks mate. We really avoided a catastrophe there. My code would've been utterly incomprehensible otherwise. 
 
 Now I know this seems strange coming from the guy who was [yapping up a storm](https://sukaryo-heilscher.github.io/essays/javascript.html) about the lack of structure in Javascript compared to Java. The difference is that in Java, the structure served a clear purpose, but with ESLint, the juice just isn't worth the squeeze.
+
+<img width="300px" class="rounded float-start pe-4" src="../img/juice.jpg">
 
 ## The Juice
 
@@ -35,3 +38,7 @@ Post-ESLint:
 ```
 
 Here, having no spaces in "[i-1]" makes it clear that it serves as a singular index rather some complex operation. It's similar to how negative x is written as "-x" rather than "(-1) * x". Of course, if there really were some complex operation being conducted on i involving multiple operators, then the spaces would be justified. For singular operators though, it's better without.
+
+## The Squeeze
+
+In the opening paragraph, I detailed the tedium induced by ESLint at the end of a project, complaining about various menial errors. However, clicking through and accepting the proposed solutions is nothing compared to getting ESLint set up in the first place.
