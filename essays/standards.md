@@ -34,3 +34,4 @@ Post-ESLint:
   }
 ```
 
+Here, having no spaces in "[i-1]" makes it clear that it serves as a singular index rather some complex operation. It's similar to how negative x is written as "-x" rather than "(-1) * x". Of course, if there really were some complex operation being conducted on i involving multiple operators, then the spaces would be justified. For singular operators though, it's better without.
