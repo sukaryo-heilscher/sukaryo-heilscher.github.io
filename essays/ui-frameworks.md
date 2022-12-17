@@ -4,7 +4,7 @@ type: essay
 title: "UI (wanna die)"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
-published: true
+published: false
 labels:
 - Programming
 - HTML

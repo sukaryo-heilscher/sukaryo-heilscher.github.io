@@ -4,7 +4,7 @@ type: essay
 title: "Stepping into Software"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-14
-published: true
+published: false
 labels:
 - Programming
 - Software
