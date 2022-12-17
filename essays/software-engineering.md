@@ -11,6 +11,8 @@ labels:
 - Project Management
 ---
 
+<img width="150px" class="rounded float-start pe-4" src="../img/software-engineering/spaghetti.jpg">
+
 __"Remember, diamonds are made under pressure." 
 -Some filthy liar (or a geologist)__
 
