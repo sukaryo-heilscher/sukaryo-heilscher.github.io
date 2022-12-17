@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Sukaryo Roy Heilscher",
+    "label": "Student",
+    "picture": "https://github.com/sukaryo-heilscher.png",
+    "email": "sukaryor@hawaii.edu",
+    "phone": "808-298-8511",
+    "website": "https://sukaryo-heilscher.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "903 Kenui Cir", "postalCode": "96761", "city": "Lahaina", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sukaryo-heilscher", "url": "http://github.com/sukaryo-heilscher" },
+      { "network": "linkedin", "username": "sukaryo-heilscher", "url": "http://linkedin.com/in/sukaryo-heilscher" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Games" },
+    { "name": "Software Engineering" },
+    { "name": "Quantum Computing" },
+    { "name": "Video Streaming Platforms" },
+    { "name": "Top Hats" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows OS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Marty Wolff Fine Art Photography",
+      "position": "Hired Hand",
+      "website": "https://martywolff.com/",
+      "startDate": "2022-07-08",
+      "endDate": "2022-08-13",
+      "summary": "Set up and took down art show display",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Provost Achievement Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshman students who are residents of Hawai‘i with a minimum overall GPA of 3.8 (4.0 scale). Evidence of superior academic achievement or creative endeavor and record of academic, co-curricular, and community service activities."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

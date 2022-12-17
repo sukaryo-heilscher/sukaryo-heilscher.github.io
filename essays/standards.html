@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Coding Standards: Juice Not Worth the Squeeze | Sukaryo Roy Heilscher | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/sukaryo-heilscher.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sukaryo Roy Heilscher | Professional Portfolio">
+    <meta property="og:url" content="https://sukaryo-heilscher.github.io/essays/standards.html">
+    <meta property="og:title" content="Coding Standards: Juice Not Worth the Squeeze | Sukaryo Roy Heilscher | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/sukaryo-heilscher.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Coding Standards: Juice Not Worth the Squeeze | Sukaryo Roy Heilscher | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Sukaryo Roy Heilscher</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Coding Standards: Juice Not Worth the Squeeze</h1>
+  <span class="date">22 Sep 2022</span>
+  <hr>
+  <p><img width="150px" class="rounded float-start pe-4" src="../img/juice.jpg" /></p>
+
+<p><em>Tedium</em></p>
+
+<p>That simple word alone adequately describes my experience with the code analyzing tool ESLint. Just when I’ve wrapped up coding a program and am preparing to submit it, ESLint has to rear their ugly head to point out the three spaces I didn’t bother to place. Yeah, thanks mate. We really avoided a catastrophe there. My code would’ve been utterly incomprehensible otherwise.</p>
+
+<p>Now I know this seems strange coming from the guy who was <a href="https://sukaryo-heilscher.github.io/essays/javascript.html">yapping up a storm</a> about the lack of structure in Javascript compared to Java. The difference is that in Java, the structure served a clear purpose, but with ESLint, the juice just isn’t worth the squeeze.</p>
+
+<h2 id="the-juice">The Juice</h2>
+
+<p>Nitpicks’s are all that ESLint has to say to me. Now, I can admit that my code does look a little nicer with the extra space before the curly braces and around some operators. However, it’s only a <em>little</em> nicer. It was still perfectly readable beforehand, and I’d argue that some things actually looked better.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Pre-ESLint:
+
+  for (let i = 2; i &lt; 50; i++) {
+    fibNums.push(fibNums[i-2] + fibNums[i-1]);
+  }
+
+Post-ESLint:
+
+  for (let i = 2; i &lt; 50; i++) {
+    fibNums.push(fibNums[i - 2] + fibNums[i - 1]);
+  }
+</code></pre></div></div>
+
+<p>Here, having no spaces in “[i-1]” makes it clear that it serves as a singular index rather some complex operation. It’s similar to how negative x is written as “-x” rather than “(-1) * x”. Of course, if there really were some complex operation being conducted on i involving multiple operators, then the spaces would be justified. For singular operators though, it’s better without.</p>
+
+<h2 id="the-squeeze">The Squeeze</h2>
+
+<p>In the opening paragraph, I detailed the tedium induced by ESLint at the end of a project, complaining about various menial errors. However, clicking through and accepting the proposed solutions is nothing compared to getting ESLint set up in the first place.</p>
+
+<p>First, 3 files need to be added to the project: .eslintrc.js, package.json, and .gitignore. Then run “npm install” in order to get some additional files set up, except now there’s some strange errors popping up. After a bit of Googling, turns out the NPM installed is too recent so “npm install eslint@8.22.0 –save-exact”  has to be run instead. Certainly doesn’t help that the built-in terminal on IntelliJ has no idea what the Helvetica Standard npm is, necessitating the use of Windows Powershell to navigate to the project location and finally run the accursed line of code.</p>
+
+<p>Now, I’ll confess, it’s really not that bad. After getting familiar with the process, it takes maybe a minute or two. BUT, it is tedious. So bloody tedius. And for what? To be told I’m missing a few space? Even though the squeeze isn’t all that bad, it’s still not worth the effort.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
