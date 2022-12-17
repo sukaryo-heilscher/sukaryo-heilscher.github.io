@@ -11,7 +11,8 @@ labels:
 - Project Management
 ---
 
-__Remember, diamonds are made under pressure. -Some filthy liar (or a geologist)__
+__"Remember, diamonds are made under pressure." 
+-Some filthy liar (or a geologist)__
 
 No, but seriously, just because you can create an analogy to some real world process, doesn't make it true. Not that I don't understand the appeal though. "Diamonds are made under pressure" sounds a lot better than "Spaghetti is made under pressure", regardless of how much the latter reflects my own experience.
 
