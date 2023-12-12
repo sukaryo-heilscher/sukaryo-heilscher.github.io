@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Javascript: where'd my structure go? | Sukaryo Roy Heilscher | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/sukaryo-heilscher.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sukaryo Roy Heilscher | Professional Portfolio">
+    <meta property="og:url" content="https://sukaryo-heilscher.github.io/essays/javascript.html">
+    <meta property="og:title" content="Javascript: where'd my structure go? | Sukaryo Roy Heilscher | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/sukaryo-heilscher.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Javascript: where'd my structure go? | Sukaryo Roy Heilscher | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Sukaryo Roy Heilscher</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Javascript: where'd my structure go?</h1>
+  <span class="date">30 Aug 2022</span>
+  <hr>
+  <p><img width="150px" class="rounded float-start pe-4" src="../img/javascript.png" /></p>
+
+<p><strong>In the parlance of the internet, I may be referred to as a noob.</strong></p>
+
+<p>I haven’t been coding for very long and the languages I have worked with are rather rudimentary. These languages, being Java &amp; C, have some strict rules, with a big one being: all variables must be declared with a type. There are plenty of other rules but I bring this one up specifically as it is absent in Javascript. Having gotten so used to them, their absence left me with the title question:</p>
+
+<h1 id="whered-my-structure-go">Where’d my structure go?</h1>
+
+<hr />
+
+<h2 id="types-or-lack-thereof">Types or lack thereof</h2>
+
+<p>Types are seemingly gone from Javascript, with all mentions of int’s, double’s, or boolean’s being replaced with a simple var. <em>(There’s also alternatively let or const that come with some additional subtleties but aren’t too relevant to my point.)</em> Now on one hand, this is a substantial improvement as there’s no longer a need to keep track of data types, streamlining the coding process. On the other hand…</p>
+
+<blockquote>
+Human sacrifice! Dogs and cats living together! Mass hysteria!
+<footer>Bill Murray (Ghostbusters 1984)</footer>
+</blockquote>
+
+<p>All consistency has gone out the window. I could be working with a variable holding a simple integer, turn around, and find that it now holds a string with the entire script of the Bee Movie. Now I’m sure such an extreme situation would rarely, if ever, occur but the fact that it could is still scary. It was nice knowing that a function would always return a boolean or that it’s parameters would always be a string and an int. With Javascript though, you seemingly need to account for every possibility, but I guess that just comes with practice.</p>
+
+<h2 id="the-practice">The practice</h2>
+
+<p>So my current class is following a pedagogy called “Athletic Software Engineering”, which basically comes down to us receiving a small assignment each class we need to finish in a limited amount of time. To summarize my thoughts on it would amount to a lot of screaming, but to put it in English, it’s quite stressful. I don’t like time limits and the fact it’s all or nothing, with no partial credit, only adds to the horror. Now, is it effective? Yeah, probably. It certainly incentivises being very familiar with Javascript’s structure and various algorithms. However, it also rewards quick solutions over smart solutions.</p>
+
+<p>Just the other day I was doing one of the practice problems and I solved it in under 4 minutes, a really good time. The issue was my solution was horribly inefficient, being O(n^2) instead of the optimal O(n). <em>(For those unfamiliar with asymptotic runtimes, the graph should show how bad that really is.)</em> It wasn’t as if I wasn’t aware of this inefficiency, but it was the first solution that came to mind and time was of the essence. Part of the fun of programming for me is puzzling through the problem and coming up with an optimal solution, something that this “athletic” style prohibits.</p>
+
+<p><img src="../img/Big_O.jpeg" alt="Graph showing how different asymptotic runtimes compare." /></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
