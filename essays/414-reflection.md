@@ -31,4 +31,4 @@ Wait, isn't that what React's supposed to do? Because, y'know, it Reacts! Or is 
 It's too much, man. Take me back to Assembly, where things make sense, where I can read out each individual 1 & 0 I place into a register. This matryoshka doll of nebulous frameworks upon libraries upon Shmeagle-knows what else is driving me mad!
 
 I watched a [video](https://www.youtube.com/watch?v=O-2viBhLTqI) recenty about how a graphics programmer got on his career path. At one point he says
->
+"Unfortunately over time, the Computer Science assignments became less and less interesting. It went from cool creative projects to boring lame web development assignments and I could not stand web development." THAT'S ME. I've never felt more seen in my life! So this is why people rally so hard behind representation, it all makes since now!
