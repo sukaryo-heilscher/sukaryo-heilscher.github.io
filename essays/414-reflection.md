@@ -20,3 +20,5 @@ Bloody hell. Son of a gun. Other PG rated swears. Words cannot express how agoni
 ## Eh... What's Up Doc?
 
 I never realized how much I loved proper documentation until I had to sift through pages upon pages of StackOverflow posts and official pages just to find out how to tell if a Checkbox element was checked or not. Turns out, there's a "checked" property you can use, and yet there's not a single mention of it on the entire [official webpage](https://react-bootstrap.netlify.app/docs/forms/checks-radios/)! Cool cool, very helpful. Love being told a thousand different ways to arrage it on the screen and not how to actually use the bloody thing!
+
+*But is this actually a Meteor problem?* ...No? I suppose it's a React Boostrap problem. *OK, but what's React Boostrap?* Uhh, it's a combination of React & Bootstrap? React is this thing that lets stuff update on the fly & Bootstrap is a thing that makes it look pretty, I'm pretty sure. *Then what's Meteor?* I DON'T KNOW.
