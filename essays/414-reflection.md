@@ -23,6 +23,12 @@ I never realized how much I loved proper documentation until I had to sift throu
 
 *But is this actually a Meteor problem?* ...No? I suppose it's a React Boostrap problem. *OK, but what's React Boostrap?* Uhh, it's a combination of React & Bootstrap? React is this thing that lets stuff update on the fly & Bootstrap is a thing that makes it look pretty, I'm pretty sure. *Then what's Meteor?* I DON'T KNOW. 
 Looking at Wikipedia,
->It uses the Distributed Data Protocol and a publish–subscribe pattern to automatically propagate data changes to clients without requiring the developer to write any synchronization code.
-
+"It uses the Distributed Data Protocol and a publish–subscribe pattern to automatically propagate data changes to clients without requiring the developer to write any synchronization code."
 Wait, isn't that what React's supposed to do? Because, y'know, it Reacts! Or is it that it reacts to the changes that are sent by Meteor? I- I can't- I HATE THIS. It's just a mess of things upon things upon things!
+
+## GET ME OUT OF HERE
+
+It's too much, man. Take me back to Assembly, where things make sense, where I can read out each individual 1 & 0 I place into a register. This matryoshka doll of nebulous frameworks upon libraries upon Shmeagle-knows what else is driving me mad!
+
+I watched a [video](https://www.youtube.com/watch?v=O-2viBhLTqI) recenty about how a graphics programmer got on his career path. At one point he says
+>
