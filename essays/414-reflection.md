@@ -33,3 +33,5 @@ It's too much, man. Take me back to Assembly, where things make sense, where I c
 I watched a [video](https://www.youtube.com/watch?v=O-2viBhLTqI) recenty about how a graphics programmer got on his career path. At one point he says
 __"Unfortunately over time, the Computer Science assignments became less and less interesting. It went from cool creative projects to boring lame web development assignments and I could not stand web development."__
 THAT'S ME. I've never felt more seen in my life! So this is why people rally so hard behind representation, it all makes since now! So when I was talking with a professor about what to do for my capstone and he mentioned how he usually proposes webstuff, since it's "easy" and "what most students seem to want to do", I shot that down hard. Luckily, he completely agreed with my that webstuff blows and we were able to come up with something much better.
+
+In short, Meteor sucks. Web stuff sucks. Good day.
